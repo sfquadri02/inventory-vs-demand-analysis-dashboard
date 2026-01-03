@@ -6,6 +6,12 @@ This project focuses on analyzing inventory levels against customer demand
 to identify stock gaps, overstock situations, and demand trends.
 The dashboard helps support data-driven inventory planning and decision-making.
 
+## Dataset
+- Source: Kaggle – Inventory Management Dataset by Hetul Parmar
+- Link: https://www.kaggle.com/datasets/hetulparmar/inventory-management-dataset
+- Format: CSV / Excel
+- Description: Dataset contains product-level inventory, demand, and sales-related attributes used to analyze stock health and demand patterns
+
 ## Business Questions Addressed
 - Is current inventory sufficient to meet customer demand?
 - Which product categories face overstock or stockout risks?
